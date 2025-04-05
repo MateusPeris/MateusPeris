@@ -23,7 +23,7 @@
 
 ##
 
-![Snake Animation](https://github.com/MateusPeris/MateusPeris/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MateusPeris/MateusPeris/blob/output/github-contribution-grid-snake.svg)
 
           
           
